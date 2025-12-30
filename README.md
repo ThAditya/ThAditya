@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3> 
 
 💫 About Me:
-🔭  I’m currently pursuing B.Tech in Computer  Science<br>🌱 🌱 I’m currently practicing DSA in JAVA<br>
+🔭  I’m currently pursuing B.Tech in Computer  Science<br>🌱  I’m currently practicing DSA in JAVA<br>
 
 
 
